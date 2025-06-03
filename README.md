@@ -56,3 +56,43 @@ echo 'BOT_TOKEN = "your-discord-bot-token-here"' > apikey.py
 ```
 python bot.py
 ```
+<br>
+<h1>🎹Commands</h1>
+<table border="0">
+  <tr>
+    <th>Command</th>
+    <th>Use</th>
+  </tr>
+  <tr>
+    <td>/play &lt;query or URL&gt;</td>
+    <td>Plays or queues a song</td>
+  </tr>
+  <tr>
+    <td>/pause</td>
+    <td>Pauses the current song</td>
+  </tr>
+  <tr>
+    <td>/resume</td>
+    <td>Resumes paused song</td>
+  </tr>
+  <tr>
+    <td>/skip</td>
+    <td>Skips current song</td>
+  </tr>
+  <tr>
+    <td>/stop</td>
+    <td>Stops playing and clears queue</td>
+  </tr>
+  <tr>
+    <td>/queue</td>
+    <td>Shows current song queue</td>
+  </tr>
+  <tr>
+    <td>/now</td>
+    <td>Shows currently playing song</td>
+  </tr>
+  <tr>
+    <td>/volume &lt;0-100&gt;</td>
+    <td>Sets volume</td>
+  </tr>
+</table>
