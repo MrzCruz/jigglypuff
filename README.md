@@ -1,4 +1,4 @@
-<h1>🎵 **__Jigglypuff__**</h1>
+<h1>🎵 Jigglypuff</h1>
 
 ![](logo.png)
 
