@@ -96,3 +96,14 @@ python bot.py
     <td>Sets volume</td>
   </tr>
 </table>
+
+---
+
+📜 License
+
+MIT License © Bryan D Cruz
+
+
+---
+
+❤️ Made with love by MrzCruz
