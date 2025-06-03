@@ -105,5 +105,8 @@ MIT License © Bryan D Cruz
 
 
 ---
+> 🚧 **Project Status: Work in Progress**  
+> Jigglypuff is still warming up her vocal cords!  
+> More features, improvements & polish are on the way — stay tuned! 🎤✨
 
 ❤️ Made with love by MrzCruz
