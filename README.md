@@ -1,7 +1,7 @@
 <h1>🎵 Jigglypuff</h1>
-
-![](logo.png)
-
+<p align="left">
+  <img src="logo.png" alt="Jigglypuff Logo" width="200"/>
+</p>
 ---
 
 **A Lightweight Discord Music Bot Built With**  
